@@ -1,0 +1,23 @@
+Tying a shoelace: 1st step in tying a shoelace is to take both shoelaces and hold them up to make an 'X'. 2nd step is choose
+either the left or right shoelace and wrap underneath the other shoelace, then pull tight. For the 3rd step take the right 
+shoelace and wrap it around your thumb to form a bunny ear. Make sure to hold down the two shoelaces you just tightened so the 
+knot does not get loose. 4th step is you hold the bunny ear you just made so you can take the left shoelace and wrap it around
+the newly formed bunny ear. After that step there should be a hole where you can pull the left shoelace through that will start
+to form a new bunny ear. Pull the left shoelace through until you feel the knot in the middle become tight. If done correctly
+there should now be two bunny ears with a knot in the middle. Use the ends of the shoelaces to make the bunny ears bigger or 
+smaller. That is how you tie a shoelace. 
+
+The "Say Hi" program example: If the "Say Hi" part of the program never runs I would work backwards to find the part of the 
+program that is still functioning properly. If the "User Clicks" part was still working okay, I would then check the "User name
+input" section. In this example, since there is only three steps, it would be safe to assume the 'User name input' is the culprit.
+I would solve that problem and continue to work forward from there. 
+
+Problem solving example: Starting a car: Everyday before I start my drive to work I need to make sure the car will start. A roadmap
+for this would look like, "Good Battery"--"Enough Gas"--"Inserting key into ignition"--"Turning key to start engine"--
+"Engine turning over/starting". 
+Now if the car does not start, starting backwards I would make sure I have the correct car key. If it is indeed the correct car
+key, I need to make sure my car has enough gas to turn over. Usually by leaving the key in the "ON" position it will show
+the fuel level. If it does not show the fuel level or make any sounds of any kind from the dash, I can move onto the next area 
+which is "Good Battery". Without a good battery a car will not start nor will it show fuel lvl or notifications from the comp. 
+If it is determined that is the problem, I can solve it by jumping the battery or towing it to the nearest auto parts store for
+a new battery. 
